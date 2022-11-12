@@ -37,6 +37,7 @@
 
     .page__video {
         flex: 0 0 57%;
+        align-self: stretch;
         padding-bottom: 50%;
     }
 
