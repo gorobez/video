@@ -20,6 +20,7 @@
 .page__video {
     flex: 0 0 57%;
     padding-bottom: 30%;
+    align-self: flex-start;
 }
 
 .page__video iframe {
@@ -37,7 +38,6 @@
 
     .page__video {
         flex: 0 0 57%;
-        align-self: stretch;
         padding-bottom: 50%;
     }
 
