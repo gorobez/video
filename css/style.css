@@ -38,6 +38,7 @@
 
     .page__video {
         padding-bottom: 50%;
+        align-self: stretch;
     }
 
     .page__text {
